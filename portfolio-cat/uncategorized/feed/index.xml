@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Uncategorized &#8211; ecommerce</title>
+	<atom:link href="https://rashajouda.github.io/business-website-wordpress/portfolio-cat/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>https://rashajouda.github.io/business-website-wordpress</link>
+	<description></description>
+	<lastBuildDate>Sat, 10 Feb 2024 17:16:23 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>https://rashajouda.github.io/business-website-wordpress/wp-content/uploads/2024/02/Jim-Fahad-Digital-FAVICON.png</url>
+	<title>Uncategorized &#8211; ecommerce</title>
+	<link>https://rashajouda.github.io/business-website-wordpress</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Website Builder</title>
+		<link>https://rashajouda.github.io/business-website-wordpress/portfolio/website-builder/</link>
+		
+		<dc:creator><![CDATA[rashajouda]]></dc:creator>
+		<pubDate>Sat, 10 Feb 2024 17:16:22 +0000</pubDate>
+				<guid isPermaLink="false">https://rashajouda.github.io/business-website-wordpress/?post_type=portfolio#038;p=211</guid>
+
+					<description><![CDATA[ontent of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page edito]]></description>
+										<content:encoded><![CDATA[
+<h3 class="wp-block-heading">All Under One Roof</h3>
+
+
+
+<p>Get the best 1-stop solution for building WordPress websites with our editor + theme + hosting – all rolled into one!</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Basket of Flower on table</title>
+		<link>https://rashajouda.github.io/business-website-wordpress/portfolio/basket-of-flower-on-table-7/</link>
+		
+		<dc:creator><![CDATA[rashajouda]]></dc:creator>
+		<pubDate>Sun, 05 Jan 2020 08:37:17 +0000</pubDate>
+				<guid isPermaLink="false">https://rashajouda.github.io/business-website-wordpress/portfolio/basket-of-flower-on-table-7/</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
